@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bill's pages
+
+For showing bits and pieces developed in my own time.
 
 You can use the [editor on GitHub](https://github.com/billgdev/billgdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
